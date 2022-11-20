@@ -1,0 +1,11 @@
+/.vscode
+/CMakeCache.txt
+/CMakeFiles
+/Makefile
+/Pong (1 player).ch8
+/build
+/chip8
+/cmake_install.cmake
+/install_manifest.txt
+/test.ch8
+/test_opcode.ch8
