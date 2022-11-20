@@ -42,7 +42,7 @@ int main(int argc, char** argv)
         pthread_join(window, NULL);
         return 0;
     case HELP:
-        printf("chip8emu is emulator for Chip 8\n<file>           The file opened and interpreted\n-hz n            The cpu clockspeed (default = 300)\n-help            Shows this menu\n-window n        Sets the window size multiplier\n");
+        printf("chip8emu is emulator for Chip 8\n<file>           The file opened and interpreted\n-hz n            The cpu clockspeed (default = 300)\n-help            Shows this menu\n-scale n        Sets the window size multiplier\n");
         return 0;
     }
 }

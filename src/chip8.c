@@ -1,5 +1,6 @@
 #include <raylib.h>
 #include <stdio.h>
+#include <stdlib.h>
 #include <stdint-gcc.h>
 #include <time.h>
 #include <unistd.h>

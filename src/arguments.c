@@ -35,7 +35,7 @@ struct arguments_t lexicalize_args(int argc, char** argv)
             } else if (strcmp(arg, "help") == 0 || strcmp(arg, "h") == 0)
             {
                 args.mode = HELP;
-            } else if (strcmp(arg, "window") == 0)
+            } else if (strcmp(arg, "scale") == 0)
             {
                 if (i + 1 != argc)
                 {
